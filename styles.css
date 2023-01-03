@@ -1,4 +1,19 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
+} */
+
+/* css mox model */
+.box {
+    justify-content: center;
+    display: flex;
+  }
+.boxmodel{
+    background-color: lightgrey;
+    width: 300px;
+    border: 30px solid green;
+    padding: 30px;
+    margin: 30px;
+    color: crimson;
+  }
 }
